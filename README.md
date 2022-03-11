@@ -6,7 +6,7 @@ To ensure the safety and make it as easy as possible for our community, the coll
 Of course our team will also be doxed by them.
 ## Utility
 ### Whitelist:
-Because we want to reward our holders, 
+We want to reward our holders. 
 By owning a phase 1 NFT you will be added to the whitelist of the future collections
 Beside having an earlier and guaranteed mint the whitelist will let you mint for a lower price.
 ### Make your voice count: 
