@@ -1,7 +1,7 @@
 # SoLions Gentlemen's Club
 ## Basics
 The Solion Gentlemen’s Club is a collection of 2222 generated NFT’s living on the Solana blockchain.
-Each NFT is unique and has big variety of different characteristics (background, frame, suit, tie, head, eyes, earrings, mane, hats, cigares) and will be generated from         over 100 different features.
+Each NFT is unique and has a big variety of different characteristics (background, frame, suit, tie, head, eyes, earrings, mane, hats, cigares) and will be generated from         over 100 different features.
 To ensure the safety and make it as easy as possible for our community, the collection will be minted on Magic Eden. Our team will also be doxed by them.
 ## Utility
 ### Whitelist:
