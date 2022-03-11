@@ -22,3 +22,6 @@ Every single one of us already made mistakes in the nft and crypto space. But it
 Stay open minded, be ready to learn and share your own knowledge and enjoy the benefits of it!
 ## Lions together strong
 
+
+### Roadmap coming soon...
+
